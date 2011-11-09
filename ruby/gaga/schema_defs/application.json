@@ -1,0 +1,8 @@
+{"id":"application",
+   "attributes":{
+     "name":"string"
+   },
+   "validations":{
+     "required":["name"]
+   }
+}

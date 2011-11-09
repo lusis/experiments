@@ -1,0 +1,14 @@
+{"id":"host",
+   "attributes":{
+     "name":"string",
+     "status":[
+       "up",
+       "down",
+       "pending_up",
+       "pending_down"
+     ]
+   },
+   "validations":{
+     "required":["name"]
+   }
+}

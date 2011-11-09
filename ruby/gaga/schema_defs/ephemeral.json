@@ -1,0 +1,9 @@
+{"id":"ephemeral",
+   "attributes":{
+     "name":"string",
+     "data":"string"
+   },
+   "validations":{
+     "required":["name"]
+   }
+}
