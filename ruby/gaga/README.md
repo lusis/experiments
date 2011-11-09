@@ -6,6 +6,7 @@ The idea is:
 - data is stored in git
 
 ## Schema
+_note this section is not up to date with latest changes_
 Right now the schema support is VERY basic. It understands strings and arrays for validation.
 
 `bundle install & irb -r./model.rb`
