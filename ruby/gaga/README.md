@@ -2,8 +2,20 @@
 This is an experiment to test the new direction for Noah
 
 The idea is:
+
 - objects are defined by a schema
 - data is stored in git
+
+Below is not up to date. For now, please look at the `importer.rb` and `test.rb` files.
+`app.rb` has basic read support.
+
+Obviously the JSON is ugly and basic for now. 
+
+One little idea we're kicking around is that cluster consistency is done via merging changes from either an elected master or simply all nodes in the cluster.
+
+Fun stuff!
+
+_old readme below here_
 
 ## Schema
 _note this section is not up to date with latest changes_
