@@ -9,6 +9,7 @@
      ]
    },
    "validations":{
-     "required":["name"]
+     "required":["name"],
+     "unique":["name"]
    }
 }
